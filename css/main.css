@@ -89,7 +89,7 @@ nav li.on a::after {
     margin: 0 auto 30px auto;
     border-radius: 50%;
     overflow: hidden;
-    border: 20px solid rgba(0, 0, 0, 0.2);
+    border: 5px solid rgba(0, 0, 0, 0.2);
     transform: translate() (0, 100px);
     opacity: 0;
     transition: 0.5s, 1s;
